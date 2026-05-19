@@ -7,4 +7,4 @@ Adjunto un manual de supervivencia que formo como parte de nuestra evaluacion de
 
 [Manual.pdf](https://github.com/user-attachments/files/28026094/Manual.pdf)
 
-Nota: Si docente se llama igual que yo.
+Nota: El anterior docente de socio-critica se llama igual que yo.
